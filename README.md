@@ -1,2 +1,3 @@
 # Hello_world
- this is my second git hub repository 
+ this is my first git hub repository
+ hello github
